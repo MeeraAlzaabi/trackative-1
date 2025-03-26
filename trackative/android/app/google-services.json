@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "451617534775",
+    "project_id": "trackactive-24a90",
+    "storage_bucket": "trackactive-24a90.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451617534775:android:58d83efba131361f6320b2",
+        "android_client_info": {
+          "package_name": "com.example.trackactive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVP1dC5cilnxQwU8N5qPqbhqQB5GLnAZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
